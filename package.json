@@ -1,0 +1,18 @@
+{
+  "name": "udacity-blockchain-star-notary",
+  "version": "1.0.0",
+  "description": "Udacity Star notary project",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd app && npm run dev",
+    "test": "npx truffle test",
+    "compile": "npx truffle compile",
+    "migrate": "npx truffle migrate"
+  },
+  "author": "Alejandro Weichandt",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.0.1",
+    "@truffle/hdwallet-provider": "^1.0.35"
+  }
+}
