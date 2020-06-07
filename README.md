@@ -14,7 +14,7 @@
 
 ### Symbol
 
-`START`
+`STAR`
 
 ### Name
 
@@ -29,4 +29,4 @@
 
 ## Rinkeby Contract Address
 
-`0x68886335e16e26c8deA01c9B6564C83B933f0C09`
+[0x68886335e16e26c8deA01c9B6564C83B933f0C09 link](https://rinkeby.etherscan.io/address/0x68886335e16e26c8dea01c9b6564c83b933f0c09)
