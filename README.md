@@ -14,7 +14,7 @@
 
 ### Symbol
 
-`START`
+`STAR`
 
 ### Name
 
